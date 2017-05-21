@@ -1,6 +1,6 @@
 # ssct
 A wrapper tool for shadowsocks to consistently bypass firewalls.
-
+```
 ssct options:  
   --list             list all ss servers  
   --stop             stop running servers  
@@ -26,5 +26,5 @@ shadowsocks options:
   --user <user>      username to run as  
   -v, -vv            verbose mode  
   -q, -qq            quiet mode, only show warnings/errors  
-
+```
 Connect to the available server automatically without any argument.
